@@ -433,7 +433,7 @@ section.right {
 .card_right {
   width: 60%;
   float: left;
-  background: #000000;
+  background: rgba(0,0,0,0.5);
   height: 500px;
   border-radius: 0 10px 10px 0;
   -webkit-border-radius: 0 10px 10px 0;
@@ -452,11 +452,11 @@ section.right {
 
 
 body .card_right__review p {
-  color: white;
+  color: rgba(97, 111, 152,0.9);
   font-family: 'Montserrat', sans-serif;
   font-size: 25px;
   padding: 20px;
   letter-spacing: 1px;
   margin: 10px 0 10px 0;
-  line-height: 35px;opacity:1;text-align:justify;width:720px
+  line-height: 35px;opacity:1;text-align:justify;width:720px;text-shadow:1px 1px black
 }
