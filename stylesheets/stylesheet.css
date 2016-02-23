@@ -401,8 +401,8 @@ section.right {
 @import url(//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css);
 
 .card {
-  width: 800px;
-  height: 400px;
+  width: 1200px;
+  height: 500px;
   background: transparent;
   position: absolute;
   left: 0;
@@ -417,7 +417,7 @@ section.right {
 }
 .card_left {
   width: 40%;
-  height: 400px;
+  height: 500px;
   float: left;
   overflow: hidden;
   background: transparent;
@@ -434,7 +434,7 @@ section.right {
   width: 60%;
   float: left;
   background: #000000;
-  height: 400px;
+  height: 500px;
   border-radius: 0 10px 10px 0;
   -webkit-border-radius: 0 10px 10px 0;
   -moz-border-radius: 0 10px 10px 0;
