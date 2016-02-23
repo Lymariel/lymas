@@ -235,42 +235,7 @@ h3 {
   box-sizing: border-box;
 }
 
-.column {
-  width: 20%;
-  padding: 2%;
-  height: 100%;
-  float: left;
-  margin: 0;
-  transition: all 0.5s ease;
-}
 
-.column:hover {
-  cursor: none
-}
-
-.column.wide {
-  width: 55% !important;
-}
-
-.column#red {
-  background: #F25648;
-}
-
-.column#orange {
-  background: #FC7B16;
-}
-
-.column#yellow {
-  background: #FEE532;
-}
-
-.column#green {
-  background: #23AF4C;
-}
-
-.column:hover p {
-  opacity: 1;
-}
 
 p {
   color: #fff;
@@ -440,7 +405,7 @@ section.right {
   -moz-border-radius: 0 10px 10px 0;
 }
 .card_right h1 {
-  color: white;
+  color: #9C9289;
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   text-align: left;
