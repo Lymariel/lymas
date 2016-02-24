@@ -301,15 +301,15 @@ section.right {
 
 .slideshow {
   position: relative;
-  width: 500px;
-  height: 500px;
+  width: 550px;
+  height: 550px;
   margin: 20px auto 0px auto;
   text-align: center;
 }
 .slide2 {
   position: absolute;
-  width: 500px;
-  height: 500px;
+  width: 550px;
+  height: 550px;
  
   border: 4px solid #fff;
   overflow: hidden;
